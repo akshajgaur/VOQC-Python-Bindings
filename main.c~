@@ -1,0 +1,6 @@
+#include <studio.h>
+void myprint(void);
+void myPrint()
+{
+  printf("hello world/n");
+}
